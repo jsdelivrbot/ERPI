@@ -1,6 +1,6 @@
 # ERPI
 
-This branch is used for the ERPI Laboratory homepage: <https://inkstitch.org>
+This branch is used for the ERPI Laboratory homepage
 
 ### Basic File Structure
 
