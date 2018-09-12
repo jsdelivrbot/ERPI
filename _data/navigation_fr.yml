@@ -1,0 +1,54 @@
+
+# Navigation Links in French
+main:
+  - title: "À propos"
+    url: /fr/about/
+  - title: "Publications"
+    url: /fr/publications/
+  - title: "Projets"
+    url: /fr/projects/
+  - title: "Actualites"
+    url: /fr/news/
+  - title: "Contact"
+    url: /fr/contact/
+  - title: "En"
+    url: /
+
+publications:
+  - title: "Publications du ERPI"
+    children:
+      - title: "Articles scientifiques"
+        url: /fr/publications/articles/
+      - title: "Conférences"
+        url: /fr/publications/conferences/    
+      - title: "Livres"
+        url: /fr/publications/books/
+      - title: "Thèses"
+        url: /fr/publications/thesis/
+        children:
+          - title: "Thesès en cours"
+            url: /fr/publications/thesis/#current-thesis
+          - title: "Thèses soutenues"
+            url: /fr/publications/thesis/#defended-thesis 
+
+projects:
+  - title: "ERPI Projets"
+    children:      
+      - title: "Chaire PRINCIP"
+        url: /fr/projects/princip/
+
+      - title: "Chaire REVES"
+        url: /projects/reves/
+
+      - title: "La Fabrique"
+        url: /fr/projects/fabrique-nancy/ 
+
+      - title: "Lorraine Smart City Living Lab"
+        url: /fr/projects/lorraine-smart-city-living-lab/
+
+      - title: "Innovation on Health"
+        url: /fr/projects/innovation-on-health/
+
+      - title: "Green FabLab"
+        url: /fr/projects/green-fablab/
+

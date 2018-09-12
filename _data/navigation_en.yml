@@ -1,0 +1,56 @@
+
+# Navigion Links 
+
+main:
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "News"
+    url: /news/
+  - title: "Contact"
+    url: /contact/
+  - title: "Fr"
+    url: /fr/
+
+
+publications:
+  - title: "ERPI Publications"
+    children:
+      - title: "Articles"
+        url: /publications/articles/
+      - title: "Conferences"
+        url: /publications/conferences/    
+      - title: "Books"
+        url: /publications/books/
+      - title: "Thesis"
+        url: /publications/thesis/
+        children:
+          - title: "Current Thesis Projets"
+            url: /publications/thesis/#current-thesis
+          - title: "Thesis defended"
+            url: /publications/thesis/#defended-thesis 
+
+projects:
+  - title: "ERPI Projets"
+    children:      
+      - title: "Chaire PRINCIP"
+        url: /projects/princip/
+
+      - title: "Chaire REVES"
+        url: /projects/reves/
+
+      - title: "La Fabrique"
+        url: /projects/fabrique-nancy/ 
+
+      - title: "Lorraine Smart City Living Lab"
+        url: /projects/lorraine-smart-city-living-lab/
+
+      - title: "Innovation on Health"
+        url: /projects/innovation-on-health/
+
+      - title: "Green FabLab"
+        url: /projects/green-fablab/
+
