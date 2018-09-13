@@ -1,5 +1,4 @@
 ---
-lang: en
 title: Fabio CRUZ
 permalink: /people/Fabio-Cruz/
 excerpt: "Ingenieure de Recherche"
