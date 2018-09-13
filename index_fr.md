@@ -5,6 +5,7 @@ permalink: /fr/
 locale: fr-FR
 lang: fr
 
+
 sidebar:
   nav: ""
 

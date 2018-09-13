@@ -4,6 +4,8 @@ layout: single
 title: "Publications ERPI"
 permalink: /publications/
 excerpt: "Publications ERPI"
+
+
 header:
   overlay_image: /assets/images/publications/banner.jpg
   overlay_filter: 0.3
@@ -17,7 +19,7 @@ feature_row:
   - image_path: /assets/images/publications/articles.jpg
     alt: "Articles of ERPI"
     title: "Articles"
-    excerpt: "Research articles"
+    excerpt: ""
     url: "/publications/articles/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -25,14 +27,14 @@ feature_row:
   - image_path: /assets/images/publications/conferences.jpg
     alt: "Conferences proceedings ERPI"
     title: "Conferences"
-    excerpt: "Proceedings of the research"
+    excerpt: ""
     url: "/publications/conferences/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
   - image_path: /assets/images/publications/livres.jpg
     title: "Books"
-    excerpt: "Books **Markdown** formatting."
+    excerpt: ""
     url: "/publications/books/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -40,7 +42,7 @@ feature_row:
 
   - image_path: /assets/images/publications/theses.jpg
     title: "Thesis"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: ""
     url: "/publications/thesis/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
