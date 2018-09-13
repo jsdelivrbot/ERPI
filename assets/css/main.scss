@@ -59,18 +59,7 @@ key {
 
 
 
-// Border Radius .archive__item-teaser
-// $border-radius: 50% !default;
 
-// .archive__item-teaser {
-//   position: relative;  
-//   overflow: hidden;
-
-//   img {
-//     max-width: 100px;
-//     border-radius: 50px;
-//   }
-// }
 
 // FONT
 // /* type scale */
@@ -105,8 +94,32 @@ $link-color: $ERPI-Blue-Dark;
 $text-color: $black;
 
 
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+// Collection Styles
+  // Teaser Image
+.staff {      
+  img {
+    width: 80%;
+    border-radius: 50%;
+   } 
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 .page__title {
   // border-bottom: 5px solid #ccc;

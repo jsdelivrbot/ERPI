@@ -3,9 +3,11 @@ lang: en
 layout: collection
 title: "About ERPI"
 permalink: /about/
+
 collection: people
 entries_layout: grid
-classes: wide
+teaser_class: staff
+
 
 excerpt: "About ERPI"
 header:
