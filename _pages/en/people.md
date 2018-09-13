@@ -1,8 +1,8 @@
 ---
-lang: fr
+lang: en
 layout: collection
-title: "About ERPI"
-permalink: /fr/about/
+title: "People"
+permalink: /people/
 
 collection: people
 entries_layout: grid
@@ -16,31 +16,14 @@ header:
   show_overlay_excerpt: true 
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
-intro: 
-  - excerpt: "Equipe de recherche multi-disciplinaire sur les processus d'innovation"
+sidebar:
+  nav: ""
+
 
 last_modified_at: 2018-09-07
 ---
 
 
-{% include feature_row id="intro" type="center" %}
 
-
-## Erpi
+## Staff
 --- 
-
-
-
-## Sujets de Recherche
---- 
- 
-
-
-## L'Equipe
---- 
-
-
-
-
-
-

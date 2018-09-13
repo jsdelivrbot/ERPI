@@ -16,6 +16,8 @@ role:
 - IG
 ---
 
+
+permalink: /people/Fabio-Cruz/
 Hola Soy Fabio!..
 
 Grady received his Ph.D in Mechanical Engineering from Universidad Nacional de Colombia.
