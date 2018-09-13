@@ -16,7 +16,7 @@ header:
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
 intro: 
-  - excerpt: '**Dis moi quelque chose rigolo**'
+  - excerpt: '**Equipe de recherche multi-disciplinaire sur les processus d'innovation**'
 
 last_modified_at: 2018-09-07
 ---
@@ -25,7 +25,7 @@ last_modified_at: 2018-09-07
 {% include feature_row id="intro" type="center" %}
 
 
-## Histoire de La france ERPINIENNE
+## Erpi
 --- 
 
 
@@ -35,7 +35,7 @@ last_modified_at: 2018-09-07
  
 
 
-## Le Gens
+## L'Equipe
 --- 
 
 
