@@ -1,6 +1,6 @@
 ---
 title: Sandra Bautista
-permalink: /people/Fabio-Cruz/
+permalink: /people/Sandra-Bautista/
 excerpt: "Post-Doc"
 date: 2018-04-04 
 author: Sandra Bautista

@@ -16,8 +16,8 @@ sidebar:
 feature_row:
   - image_path: /assets/images/publications/articles.jpg
     alt: "Articles of ERPI"
-    title: "Articles"
-    excerpt: "Research articles"
+    title: "Articles scientifiques"
+    excerpt: ""
     url: "/fr/publications/articles/"
     btn_label: "Plus de détails"
     btn_class: "btn--inverse"
@@ -25,22 +25,22 @@ feature_row:
   - image_path: /assets/images/publications/conferences.jpg
     alt: "Conferences proceedings ERPI"
     title: "Conférences"
-    excerpt: "Proceedings of the research"
+    excerpt: ""
     url: "/fr/publications/conferences/"
     btn_label: "Plus de détails"
     btn_class: "btn--inverse"
 
   - image_path: /assets/images/publications/livres.jpg
-    title: "Livres"
-    excerpt: "Livres sur l'Innovation"
+    title: "Livres sur l'Innovation"
+    excerpt: ""
     url: "/fr/publications/books/"
     btn_label: "Plus de détails"
     btn_class: "btn--inverse"
 
 
   - image_path: /assets/images/publications/theses.jpg
-    title: "Thèses"
-    excerpt: "Thèse de Doctorat"
+    title: "Thèses de Doctorat"
+    excerpt: ""
     url: "/fr/publications/thesis/"
     btn_label: "Plus de détails"
     btn_class: "btn--inverse"
