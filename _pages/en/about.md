@@ -19,8 +19,8 @@ header:
 sidebar:
   nav: ""
 
-intro: 
-  - excerpt: '**A multidisciplinary research team on innovation processess research**'
+intro:
+  - excerpt: "**A multidisciplinary research team on innovation processess research**"
 
 last_modified_at: 2018-09-07
 ---
@@ -29,17 +29,22 @@ last_modified_at: 2018-09-07
 {% include feature_row id="intro" type="center" %}
 
 
-## Background and Philosophy of ERPI?
+## Background
 --- 
-**About ERPI in english please**.
+The **ERPI (Research team on innovation process)** is one of the [University of Lorraine](http://univ-lorraine.fr) research labs. It is labeled as such by the French Ministry of Higher Education, Research and Innovation. ERPI is a founding member of the Jacques Villermaux Federation and linked to the EMPP scientifique pole. ERPI has an historical link with the [ENSGSI](http://ensgsi.univ-lorraine.fr) ( Engineering School on Innovation).
+
+ERPI is a research team on Industrial Engineering specialized on the research of innovation processes management. Its activities concerns the methods, tools and knowledges allowing to optimise innovation projects management.
+
+The scientific project of the ERPI deals with the Fuzzy Front End off innovation that is to say from idea generation to materialization (CAD, formulation ...). ERPI differs to other innovation research laboratories by considering the product as a "integrating system".   
 
 
-## Topics of research
+
+## Research subjects
 --- 
  Some topics of research are 
- - Innovation
+ - Innovation management
  - Usage
- - Spirituality?
+ - Innovation assessment
 
 
 ## Staff

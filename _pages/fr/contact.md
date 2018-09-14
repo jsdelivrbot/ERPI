@@ -1,7 +1,7 @@
 ---
 title: "Contactez nous"
 permalink: /fr/contact/
-excerpt: "pratical information"
+excerpt: "information"
 date: 2018-09-10
 
 header:
@@ -16,6 +16,10 @@ sidebar:
 
 ## Horaire
 
-- **Monday - Friday**, 8:00am à 18:00pm 
+- **Lundi - Vendredi**, 8h00 à 18h00 
 
 ## Contact Information
+
+Laboratoire ERPI,
+8 rue Bastien Lepage,
+BP647, 54010 Nancy Cedex - France
