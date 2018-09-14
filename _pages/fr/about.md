@@ -16,13 +16,8 @@ header:
   show_overlay_excerpt: true 
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
-<<<<<<< HEAD
 intro:
   - excerpt: "**Equipe de recherche multi-disciplinaire sur les processus d'innovation**"
-=======
-intro: 
-  - excerpt: "Equipe de recherche multi-disciplinaire sur les processus d'innovation"
->>>>>>> 158d7d834524bf1b8c2dbca433ada77698c1be81
 
 last_modified_at: 2018-09-07
 ---
