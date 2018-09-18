@@ -1,15 +1,27 @@
 Fabio Cruz:
   name: "Fabio Cruz"
-  uri: "http://thewhip.com"
-  email: "billy@rick.com"
-  bio: "What do you want, jewels? I am a very extravagant man."
+  bio: "Research associate on 3D printing for circular economy purposes"
   avatar: "/assets/images/people/Fabio.jpg"
-  twitter: "extravagantman"
-  linkedin: https://www.linkedin.com/in/fabio-cruz/
-  google-scholar: https://scholar.google.com/citations?user=8Cuoaf4AAAAJ&hl=es
-  academia: https://univ-lorraine.academia.edu/FabioACruzS
-  researchgate: https://www.researchgate.net/profile/Fabio_Cruz_Sanchez
-  mendeley: https://www.mendeley.com/profiles/fabio-a-cruz-sanchez/
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?user=8Cuoaf4AAAAJ&hl=es"
+    - label: "Researchgate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Fabio_Cruz_Sanchez"
+    - label: "Mendeley"
+      icon: "ai ai-mendeley"
+      url: "https://www.mendeley.com/profiles/fabio-a-cruz-sanchez/"
+    - label: "Academia"
+      icon: "ai ai-academia"
+      url: "https://univ-lorraine.academia.edu/FabioACruzS"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/fabio-cruz/"      
+    - label: "Twitter"
+      icon: "fab fa-twitter-square"
+      url: "https://twitter.com/fabbiocrux"
+
 
 Giovanny Arbelaez:
   name: "Giovanny Arbelaez"
