@@ -1,7 +1,7 @@
 ---
 title: Alaa Hassan
-permalink: /people/Alaa-Hassan/
-excerpt: "Assistant Professor"
+permalink: /fr/people/Alaa-Hassan/
+excerpt: "Maitre de Conference"
 last_modified_at: 2018-09-19
 author: Alaa Hassan
 
@@ -10,6 +10,7 @@ header:
 
 orden: H
 role: MCF
+
 
 ---
 

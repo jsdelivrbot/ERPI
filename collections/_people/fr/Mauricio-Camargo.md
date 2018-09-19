@@ -1,7 +1,7 @@
 ---
 title: Mauricio Camargo
-permalink: /people/Mauricio-Camargo/
-excerpt: Professor
+permalink: /fr/people/Mauricio-Camargo/
+excerpt: Professeur des Universités
 last_modified_at: 2018-09-19
 author: Mauricio Camargo
 

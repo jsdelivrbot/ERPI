@@ -1,8 +1,8 @@
 ---
 title: Giovanny Arbelaez
-permalink: /people/Giovanny-Arbelaez/
+permalink: /fr/people/Giovanny-Arbelaez/
 excerpt: "Post-Doc, Ingénieur de recherche"
-date:  2018-03-04
+last_modified_at: 2018-09-19
 author: Giovanny Arbelaez
 header:
   teaser: /assets/images/people/GA.jpg
@@ -12,8 +12,8 @@ tags:
   - User
   - Living Lab
 
-role:
-- IG
+orden: Q
+role: IG
 ---
 
 (Evaluation de l'acceptabilité, aide à la décision)

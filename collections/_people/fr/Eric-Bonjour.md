@@ -1,7 +1,7 @@
 ---
 title: Eric Bonjour
-permalink: /people/Eric-Bonjour/
-excerpt: Professor
+permalink: /fr/people/Eric-Bonjour/
+excerpt: Professeur des Universités
 last_modified_at: 2018-09-19
 author: Eric Bonjour
 header:

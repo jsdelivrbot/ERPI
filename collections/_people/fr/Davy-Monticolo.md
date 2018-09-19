@@ -1,7 +1,7 @@
 ---
 title: Davy Monticolo
-permalink: /people/Davy-Monticolo/
-excerpt: "Assistant Professor"
+permalink: /fr/people/Davy-Monticolo/
+excerpt: "Maître de Conférences / HDR"
 last_modified_at: 2018-09-19
 author: Davy Monticolo
 header:
@@ -13,3 +13,4 @@ role: Prof
 ---
 
 Davy Monticolo
+Maître de Conférences. (Systèmes Multi Agents)

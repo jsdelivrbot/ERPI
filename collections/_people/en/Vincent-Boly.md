@@ -1,19 +1,17 @@
 ---
 title: Vincent Boly
 permalink: /people/Vincent-Boly/
-excerpt: "Professeur des Universités"
-date:  2018-01-04
+excerpt: Professor
+last_modified_at: 2018-09-19
 author: Vincent Boly
 header:
   teaser: /assets/images/people/Vincent-Boly.jpg
 
-role:
-- MCF
-
+orden: D
+role: Prof
 
 ---
 
 
-Professeur des Université en Génie Industriel à l’Université de Lorraine – Ecole Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI). Il effectue ses recherches au laboratoire ERPI, Equipe de Recherche sur les Processus Innovatifs, EA 3767
 
-Sa recherche se centre sur les processus d'innovation. L'un des aspects majeurs concerne la métrologie de l' innovation à la fois dans sa dimension théorique et technologique (élaboration de logiciels d'évaluation). Ainsi les approches mises au point permettent aux entreprises de mesurer leur capacité à innover et sont conformes aux nouvelles normes internationales. Le second volet concerne le pilotage des étapes amonts des projets innovants. Le travail porte sur l'élaboration de modèles théoriques et de méthodologies dans les domaines de l'analyse de besoin, les approches filières, la co-innovation client/fournisseur, la chaîne numérique pour les produits formulés. 
+His research focuses on innovation processes. One of the major aspects concerns the metrology of innovation both in its theoretical and technological dimension (development of evaluation software). Thus the approaches developed allow companies to measure their capacity to innovate and are in line with new international standards. The second part concerns the management of the upstream stages of innovative projects. The work focuses on the development of theoretical models and methodologies in the areas of needs analysis, value chain approaches, customer/supplier co-innovation, the digital chain for formulated products.

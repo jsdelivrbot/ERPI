@@ -1,8 +1,8 @@
 ---
-title: Fabio CRUZ
+title: Fabio Cruz
 permalink: /fr/people/Fabio-Cruz/
 excerpt: "Ingenieure de Recherche"
-date: 2018-04-03
+last_modified_at: 2018-09-19
 author: Fabio Cruz
 header:
   teaser: /assets/images/people/Fabio.jpg
@@ -12,11 +12,11 @@ tags:
   - Recycling
   - Green FabLab
 
-role:
-- IG
+orden: P
+role: IG
+
 ---
 
-Hola Soy Fabio!..
+Je suis Fabio Cruz.
 
-Grady received his Ph.D in Mechanical Engineering from Universidad Nacional de Colombia.
 

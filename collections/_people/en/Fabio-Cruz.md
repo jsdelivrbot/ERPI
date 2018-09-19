@@ -1,8 +1,8 @@
 ---
-title: Fabio A. CRUZ S.
+title: Fabio Cruz
 permalink: /people/Fabio-Cruz/
 excerpt: "Ingenieure de Recherche"
-date: 2018-09-18
+last_modified_at: 2018-09-19
 author: Fabio Cruz
 header:
   teaser: /assets/images/people/Fabio.jpg
@@ -12,10 +12,8 @@ tags:
   - Recycling
   - Green FabLab
 
-
-
-role:
-- IG
+orden: P
+role: IG
 ---
 
 

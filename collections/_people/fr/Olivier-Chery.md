@@ -1,7 +1,7 @@
 ---
 title: Olivier Chery
-permalink: /people/Olivier-Chery/
-excerpt: "Assistant Professor"
+permalink: /fr/people/Olivier-Chery/
+excerpt: "Maitre de Conference"
 last_modified_at: 2018-09-19
 author: Olivier Chery
 header:

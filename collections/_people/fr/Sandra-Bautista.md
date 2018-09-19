@@ -1,6 +1,6 @@
 ---
 title: Sandra Bautista
-permalink: /people/Sandra-Bautista/
+permalink: /fr/people/Sandra-Bautista/
 excerpt: "Post-Doc"
 last_modified_at: 2018-09-19
 author: Sandra Bautista

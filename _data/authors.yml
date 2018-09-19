@@ -1,26 +1,189 @@
+
+Laure Morel:
+  name: "Laure Morel"
+  email: " "
+  bio: " "
+  avatar: "/assets/images/people/LM.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=H5y9cUwAAAAJ&hl=fr"
+
+Mauricio Camargo:
+  name: Mauricio Camargo  
+  email: " "
+  bio: " "
+  avatar: "/assets/images/people/Mauricio-Camargo.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=2o5hAtIAAAAJ&hl=fr"  
+
+Eric Bonjour:
+  name: Eric Bonjour
+  email: " "
+  bio: " "
+  avatar: "/assets/images/people/Eric-Bonjour.jpg"
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.fr/citations?user=zv4U2zIAAAAJ&hl=fr"  
+
+
+Vincent Boly:
+  name: Vincent Boly
+  email: " "
+  bio: " "
+  avatar: "/assets/images/people/Vincent-Boly.jpg"
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.fr/citations?user=Md6f_7kAAAAJ&hl=fr"  
+
+Claudine Guidat:
+  name: "Claudine Guidat"
+  bio: " "
+  avatar: "/assets/images/people/Claudine-Guidat.jpg"
+  email: " "  
+
+Davy Monticolo:
+  name: "Davy Monticolo"
+  bio: " "
+  avatar: "/assets/images/people/David-Monticolo.jpg"
+  email: " "
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.fr/citations?user=ttiddZkAAAAJ&hl=fr"  
+
+
+Hakim Boudaoud:
+  name: "Hakim Boudaoud"  
+  bio: " "
+  avatar: "/assets/images/people/David-Monticolo.jpg"
+  email: " "
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.fr/citations?user=9PF0MWEAAAAJ&hl=fr"  
+
+
+Alaa Hassan:
+  name: "Alaa Hassan"
+  bio: " "
+  avatar: "/assets/images/people/Alaa-Hasan.jpg"
+  email: " "
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " "
+
+Raphael Bary:
+  name: Raphael Bary
+  bio: " "
+  avatar: "/assets/images/people/Raphael-Bary.jpg"
+  email: " "
+
+
+Frederique Mayer:  
+  name: "Frédérique Mayer"
+  bio: " "
+  avatar: "/assets/images/people/Frederique-Mayer.jpg"
+  email: " "
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " "
+
+Laurent Muller:
+  name: Laurent Muller
+  bio: " "
+  avatar: "/assets/images/people/Frederique-Mayer.jpg"
+  email: " "
+  links:
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/laurent-muller-868398132/?ppe=1"      
+
+
+
+Olivier Chery:
+  name: Olivier Chery
+  bio: " "
+  avatar: "/assets/images/people/Man.jpg"
+  email: " "
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: " "
+
+
+
+Laurent Dupont:
+  name: "Laurent Dupont"
+  bio: "Co-fondateur et Responsable Scientifique du LF2L Ingénieur de Recherche ERPI / ENSGSI"
+  avatar: "/assets/images/people/LD.jpg"
+  email: l.dupont@univ-lorraine.fr
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=05uOEFcAAAAJ&hl=fr"
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Laurent_Dupont7"
+      - label: "Mendeley"
+        icon: "ai ai-mendeley"
+        url: "https://www.mendeley.com/profiles/laurent-dupont2/"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "http://www.linkedin.com/in/dupontl"      
+
+
+Manon Enjolras:
+  name: Manon Enjolras
+  email: 'manon.enjolras@univ-lorraine.fr'
+  bio: " "
+  avatar: "/assets/images/people/Manon-Enjolras.jpg"
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.fr/citations?user=yU9Xjt4AAAAJ&hl=fr&oi=ao"  
+
+
+Sandra Bautista:
+  name: Sandra Bautista
+  email: ' '
+  bio: " "
+  avatar: "/assets/images/people/Woman.jpg"  
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.fr/citations?user=pakR30QAAAAJ&hl=fr&oi=ao"  
+
+
 Fabio Cruz:
   name: "Fabio Cruz"
   bio: "Research associate on 3D printing for circular economy purposes"
   avatar: "/assets/images/people/Fabio.jpg"
   links:
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.com/citations?user=8Cuoaf4AAAAJ&hl=es"
-    - label: "Researchgate"
-      icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/profile/Fabio_Cruz_Sanchez"
-    - label: "Mendeley"
-      icon: "ai ai-mendeley"
-      url: "https://www.mendeley.com/profiles/fabio-a-cruz-sanchez/"
-    - label: "Academia"
-      icon: "ai ai-academia"
-      url: "https://univ-lorraine.academia.edu/FabioACruzS"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/fabio-cruz/"      
-    - label: "Twitter"
-      icon: "fab fa-twitter-square"
-      url: "https://twitter.com/fabbiocrux"
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.com/citations?user=8Cuoaf4AAAAJ&hl=es"
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: "https://www.researchgate.net/profile/Fabio_Cruz_Sanchez"
+      - label: "Mendeley"
+        icon: "ai ai-mendeley"
+        url: "https://www.mendeley.com/profiles/fabio-a-cruz-sanchez/"
+      - label: "Academia"
+        icon: "ai ai-academia"
+        url: "https://univ-lorraine.academia.edu/FabioACruzS"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/fabio-cruz/"      
+      - label: "Twitter"
+        icon: "fab fa-twitter-square"
+        url: "https://twitter.com/fabbiocrux"  
 
 
 Giovanny Arbelaez:
@@ -28,85 +191,48 @@ Giovanny Arbelaez:
   email: 'giovanny.arbelaez-garces@univ-lorraine.fr'
   bio: "I ordered what?"
   avatar: "/assets/images/people/GA.jpg"
-  twitter: "rhymeswithsackit" 
-  linkedin: 'https://www.linkedin.com/in/gaarbelaez'
-  google-scholar: 'https://scholar.google.fr/citations?user=qj178msAAAAJ&hl=en'
-
-
-Laure Morel:
-  name: "Laure Morel"
-  email: ""
-  bio: "I ordered what?"
-  avatar: "/assets/images/people/LM.jpg"
-  google-scholar: 'https://scholar.google.fr/citations?user=H5y9cUwAAAAJ&hl=fr'
-
-
-Alaa Hassan:
-  email: 'alaa.hassan@univ-lorraine.fr'
-
-
-Claudine Guidat:
-  email: 'claudine.guidat@univ-lorraine.fr'
-
-
-
-Davy Monticolo:
-  email: 'davy.monticolo@univ-lorraine.fr'
-
-
-Eric Bonjour:
-  email: 'davy.monticolo@univ-lorraine.fr'
-
-Frederique Mayer:  
-  email: ''
-  linkedin: ''
-
-
-Hakim Boudaoud:
-  name: "Hakim Boudaoud"  
-
-
-Laurent Dupont:
-  name: "Laurent Dupont"
-  email: l.dupont@univ-lorraine.fr
-  linkedin: http://www.linkedin.com/in/dupontl
-  google-scholar: https://scholar.google.fr/citations?user=05uOEFcAAAAJ&hl=fr
-  mendeley: https://www.mendeley.com/profiles/laurent-dupont2/
-  researchgate: https://www.researchgate.net/profile/Laurent_Dupont7
-
-
-Laurent Muller:
-  name: Laurent Muller
-  email: ''
-  linkedin: 'https://www.linkedin.com/in/laurent-muller-868398132/?ppe=1'
-
-Manon Enjolras:
-  name: Manon Enjolras
-  email: 'manon.enjolras@univ-lorraine.fr'
-
-Mauricio Camargo:
-  name: Mauricio Camargo
-  google-scholar: 'https://scholar.google.fr/citations?user=2o5hAtIAAAAJ&hl=fr'
-
-
-Olivier Chery:
-  name: Olivier Chery
-  email: 'olivier.chery@univ-lorraine.fr'
-
-
-Raphael Bary:
-  name: Raphael Bary
-
-
-Vincent Boly:
-  name: Vincent Boly
-  email: ''
-  google-scholar: 'https://scholar.google.fr/citations?user=Md6f_7kAAAAJ&hl=fr'
+  bio: "Research associate on 3D printing for circular economy purposes"
+  avatar: "/assets/images/people/Fabio.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=qj178msAAAAJ&hl=en"
+      - label: "Researchgate"
+        icon: "ai ai-researchgate"
+        url: " "
+      - label: "Mendeley"
+        icon: "ai ai-mendeley"
+        url: "https://www.mendeley.com/profiles/fabio-a-cruz-sanchez/"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/gaarbelaez"      
+      - label: "Twitter"
+        icon: "fab fa-twitter-square"
+        url: " "  
 
 
 
-Sandra Bautista:
-  name: Sandra Bautista
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
