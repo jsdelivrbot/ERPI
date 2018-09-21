@@ -9,25 +9,25 @@ sections:
   label: French - people
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_people/en
   label: English - people
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_projects/fr
   label: French - projects
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_projects/en
   label: English - projects
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_posts/fr
   label: French - posts
