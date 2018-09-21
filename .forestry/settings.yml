@@ -17,7 +17,7 @@ sections:
   match: "**/*"
   new_doc_ext: ".md"
 - type: directory
-  path: colletions/_projects/fr
+  path: collections/_projects/fr
   label: French - projects
   create: all
   match: "**/*"
