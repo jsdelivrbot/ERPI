@@ -15,7 +15,6 @@ header:
   cta_label: "More Info"
   cta_url: "http://erpi.univ-lorraine.fr/about"
 
-
 intro: 
   - excerpt: '**Equipe de Recherche sur les Processus Innovatifs**'
 
