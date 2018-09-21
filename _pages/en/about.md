@@ -42,7 +42,7 @@ The scientific project of the ERPI deals with the Fuzzy Front End off innovation
 
  Some topics of research are 
  - Innovation management
- - Usage
+ - Use assessment
  - Innovation assessment
 
 

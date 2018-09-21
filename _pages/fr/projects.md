@@ -6,7 +6,7 @@ collection: projects
 entries_layout: grid
 classes: wide
 
-excerpt: "Some of the research projects at ERPI"
+excerpt: "Les projets du laboratoire"
 header:
   overlay_image: /assets/images/publications/articles.jpg
   overlay_filter: 0.3
@@ -19,7 +19,7 @@ sidebar:
 date: 2018-09-07
 ---
 
-## Projects of the ERPI Laboratory
+## Projets du Laboratoire ERPI
 
 
 

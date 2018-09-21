@@ -98,7 +98,7 @@ Frederique Mayer:
 Laurent Muller:
   name: Laurent Muller
   bio: " "
-  avatar: "/assets/images/people/Frederique-Mayer.jpg"
+  avatar: "/assets/images/people/Laurent-Muller.jpg"
   email: " "
   links:
       - label: "LinkedIn"
@@ -188,27 +188,21 @@ Fabio Cruz:
 
 Giovanny Arbelaez:
   name: "Giovanny Arbelaez"
-  email: 'giovanny.arbelaez-garces@univ-lorraine.fr'
-  bio: "I ordered what?"
+  bio: "Research associate on acceptability assessment"
   avatar: "/assets/images/people/GA.jpg"
-  bio: "Research associate on 3D printing for circular economy purposes"
-  avatar: "/assets/images/people/Fabio.jpg"
   links:
       - label: "Google Scholar"
         icon: "ai ai-google-scholar-square"
         url: "https://scholar.google.fr/citations?user=qj178msAAAAJ&hl=en"
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: " "
       - label: "Mendeley"
         icon: "ai ai-mendeley"
-        url: "https://www.mendeley.com/profiles/fabio-a-cruz-sanchez/"
+        url: "https://www.mendeley.com/profiles/gaarbelaez/"
       - label: "LinkedIn"
         icon: "fab fa-linkedin"
         url: "https://www.linkedin.com/in/gaarbelaez"      
       - label: "Twitter"
         icon: "fab fa-twitter-square"
-        url: " "  
+        url: "https://twitter.com/gaarbelaez"  
 
 
 

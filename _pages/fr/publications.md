@@ -3,7 +3,7 @@ lang: fr
 layout: single
 title: "Publications ERPI"
 permalink: /fr/publications/
-excerpt: "Publications scientifiques du ERPI"
+excerpt: "Publications scientifiques du Laboratoire ERPI"
 header:
   overlay_image: /assets/images/publications/banner.jpg
   overlay_filter: 0.3
@@ -50,7 +50,7 @@ last_modified_at: 2018-09-07
 ---
 
 
-## List of publications of the ERPI laboratory
+## Liste de publications du laboratoire ERPI
 
 
 {% include feature_row %}

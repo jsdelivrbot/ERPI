@@ -16,7 +16,7 @@ sidebar:
 
 ## Horaire
 
-- **Monday - Friday**, 8:00am à 18:00pm 
+- **Monday - Friday**, 8:00am - 18:00pm 
 
 ## Contact Information
 
