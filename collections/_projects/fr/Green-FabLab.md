@@ -1,8 +1,9 @@
 ---
 title: Recyclage et impression 3D
 date: 2018-09-10
-permalink: /projects/green-fablab/
-
+permalink: /fr/projects/green-fablab/
+sidebar:
+  nav: "projects"
 excerpt: "Towards a circular economy for 3D printing technology"
 header:
   teaser: /assets/images/projects/green-fablab/teaser.jpg

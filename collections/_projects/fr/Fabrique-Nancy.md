@@ -1,8 +1,9 @@
 ---
 title: La Fabrique Nancy Grand Coeur
 date: 2018-02-25
-permalink: /projects/fabrique-nancy/ 
-
+permalink: /fr/projects/fabrique-nancy/ 
+sidebar:
+  nav: "projects"
 excerpt: "Un démonstrateur partagé avec le Grand Nancy"
 header:
   teaser: /assets/images/projects/fabrique-nancy/teaser.png

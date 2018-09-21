@@ -1,8 +1,9 @@
 ---
 title: Innovation on Health
 date: 2018-09-10
-permalink: /projects/innovation-on-health/
-
+permalink: /fr/projects/innovation-on-health/
+sidebar:
+  nav: "projects"
 excerpt: "Innovation on the health field"
 header:
   teaser: /assets/images/projects/inno-health/teaser.jpg

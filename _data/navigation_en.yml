@@ -34,7 +34,7 @@ publications:
             url: /publications/thesis/#defended-thesis 
 
 projects:
-  - title: "ERPI Projets"
+  - title: "ERPI Projects"
     children:      
       - title: "Chaire PRINCIP"
         url: /projects/princip/

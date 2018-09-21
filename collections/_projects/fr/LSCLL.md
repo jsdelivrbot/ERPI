@@ -1,8 +1,9 @@
 ---
 title: Lorraine Smart City Living Lab
 date: 2018-02-25 
-permalink: /projects/lorraine-smart-city-living-lab/
-
+permalink: /fr/projects/lorraine-smart-city-living-lab/
+sidebar:
+  nav: "projects"
 excerpt: "Living lab Lorrain"
 header:
   teaser: /assets/images/projects/LSCLL/teaser.jpg

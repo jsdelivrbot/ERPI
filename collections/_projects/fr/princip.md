@@ -1,7 +1,9 @@
 ---
 title: PRINCIP -Pôle de Recherche sur l'INnovation et la Capacité à Innover des Pmi
 date: 2018-09-10
-permalink: /projects/princip/
+permalink: /fr/projects/princip/
+sidebar:
+  nav: "projects"
 excerpt: "Pole de recherche sur l'innovation"
 header:
   teaser: /assets/images/projects/chaire-princip/teaser.jpg

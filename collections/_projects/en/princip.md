@@ -1,6 +1,8 @@
 ---
 title: PRINCIP -Pôle de Recherche sur l'INnovation et la Capacité à Innover des Pmi
 date: 2018-09-10
+sidebar:
+  nav: "projects"
 permalink: /projects/princip/
 excerpt: "Pole de recherche sur l'innovation"
 header:
@@ -11,32 +13,30 @@ tags:
 
 ---
 
-## Présentation
+## Presentation
 
-La Chaire PRINCIP est un projet de recherche ayant comme objectif principal l’identification et la caractérisation des compétences élémentaires à partir desquelles il devrait être possible de modéliser une capacité ou des capacités à innover spécifiques à des PMI.
-Nous associons à cela deux questions secondaires :
-Quelles sont les compétences et conditions associées pour en permettre l’externalisation ou la mutualisation.
-Quels sont les leviers, les freins, les conditions et les spécificités du développement de co-innovation dans les PMI.
+The PRINCIP Chair is a research project whose main objective is to identify and characterize the elementary skills from which it should be possible to model a capacity or capacities to innovate specific to SMEs.
+We associate this with two secondary questions:
+What are the skills and associated conditions to enable outsourcing or pooling?
+What are the levers, obstacles, conditions and specificities of co-innovation development in SMEs?
 
-## AXE 1 : Elaboration d’un ou plusieurs modèles définissant la capacité à innover d’une PMI et les conditions de progression par apprentissage :
+AXIS 1: Development of one or more models defining the ability to innovate of an SME and the conditions for progression through learning:
 
-- Identification et caractérisation des compétences managériales et entrepreneuriales spécifiques à la PMI – Elaboration d’un modèle entrepreneurial de « Capacité à Innover ».
-- Identification et caractérisation des compétences opérationnelles à la conduite de l’innovation dans les PMI - Elaboration d’un modèle opérationnel de « Capacité à Innover ».
-- Identification et caractérisation des compétences « réseaux » - Elaboration d’un modèle réseaux de « Capacité à Innover »
+- Identification and characterization of managerial and entrepreneurial skills specific to the SMI - Development of an entrepreneurial model of "Capacity to Innovate".
+- Identification and characterization of operational skills to drive innovation in SMIs - Development of an operational model of "Capacity to Innovate".
+- Identification and characterization of "network" skills - Development of a network model of "Capacity to Innovate".
 
-## AXE 2 : Identification des processus clés et des bonnes pratiques
-Pour l’externalisation et la mutualisation des compétences, notamment dans le cas de la co-innovation.
+AXIS 2: Identification of key processes and good practices
+For outsourcing and pooling skills, particularly in the case of co-innovation.
 
-## AXE 3 : Analyse comparative des pratiques innovantes
-Le positionnement spécifique de la Lorraine à proximité de l’Allemagne, le Luxembourg et la Belgique, et les relations partenariales des universités dans le cadre de l’Université de la Grande Région SAR-LOR-LUX nous permettront de mener des études comparatives, car elles sont elles-mêmes impliquées dans des projets similaires. Par ailleurs, les laboratoires ERPI et CEREFIGE sont eux-mêmes mobilisés scientifiquement et administrativement dans des réseaux internationaux (IAMOT, AIREPME).
+AXIS 3: Comparative analysis of innovative practices
+The specific positioning of Lorraine near Germany, Luxembourg and Belgium, and the partnership relations of the universities within the framework of the University of the Grande Région SAR-LOR-LUX will allow us to carry out comparative studies, as they themselves are involved in similar projects. In addition, the ERPI and CEREFIGE laboratories are themselves scientifically and administratively mobilized in international networks (IAMOT, AIREPME).
 
-## AXE 4 : Elaboration d’une plate-forme numérique « experte » Innovation on the web
+AXIS 4: Development of an "expert" digital platform Innovation on the web
 
-Elle permettra d’enrichir le modèle initial à partir d’une base de cas afin de l’adapter en fonction des typologies d’entreprises, des types d’innovation et des dispositifs organisationnels et d’avoir une approche quantitative des pratiques mobilisées par les PMI. Cette application est le noyau du système d’observation, de consolidation et de suivi des PMI pour la chaire et les partenaires à l’échelle nationale.
+It will make it possible to enrich the initial model based on a case database in order to adapt it to the typologies of companies, types of innovation and organizational mechanisms and to have a quantitative approach to the practices mobilized by SMIs. This application is the core of the PMI observation, consolidation and monitoring system for the Chair and partners at the national level.
 
-
-
-## Production scientifique associée
+## Associated scientific production
 
 
 - Enjolras M., Galvez D., Camargo M., Morel L. Supporting SMEs’ IP Capabilities: Impact Study of INPI Pre-Diagnosis Through the Use of the AIDA approach. World Patent Information. Accepted. November 2014 (IF=0.941)

@@ -308,7 +308,7 @@ defaults:
       is_post: true
       share: true
       read_time: true
-      related: true
+      related: false
       sidebar: 
         nav: ""
     # en
