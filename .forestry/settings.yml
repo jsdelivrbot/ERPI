@@ -9,7 +9,7 @@ sections:
   label: French - posts
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: collections/_posts/en
   label: English - post
