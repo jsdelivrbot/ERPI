@@ -1,7 +1,7 @@
 ---
-label: Lorraine Smart City Living Lab
-hide_body: 
-is_partial: 
+label: projects - en
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
