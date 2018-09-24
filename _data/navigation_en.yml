@@ -12,7 +12,7 @@ main:
     url: /news/
   - title: "Contact"
     url: /contact/
-  - title: "Fr"
+  - title: ':fr:'
     url: /fr/
 
 

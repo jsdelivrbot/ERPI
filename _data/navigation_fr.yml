@@ -11,7 +11,7 @@ main:
     url: /fr/news/
   - title: "Contact"
     url: /fr/contact/
-  - title: "En"
+  - title: ':gb:'
     url: /
 
 publications:
