@@ -26,7 +26,7 @@ last_modified_at: 2018-09-07
 {% include feature_row id="intro" type="center" %}
 
 
-## Erpi
+## Contexte
 --- 
 
 **L’ERPI (Équipe de Recherche sur les Processus Innovatifs)** est un des laboratoires de [l'Université de Lorraine](http://univ-lorraine.fr), labellisé Équipe d’Accueil (EA n° 3767) par le Ministère de l’Enseignement Supérieur et de la Recherche. L'ERPI est membre de la **FR 2863 : Fédération de Recherche Jacques Villermaux pour la Mécanique, l'Energie, les Procédés (FR JV)** et est rattaché au pole scientifique EMPP - Énergie, Mécanique, Procédés, Produits. Par ailleurs, les relations qu’entretient [l’ENSGSI](http://ensgsi.univ-lorraine.fr) (Ecole de l'Innovation) avec ce laboratoire sont historiques.
