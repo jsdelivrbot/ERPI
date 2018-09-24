@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 layout: collection
 title: "People"
 permalink: /people/
