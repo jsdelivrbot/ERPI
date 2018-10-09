@@ -205,6 +205,16 @@ Giovanny Arbelaez:
         url: "https://twitter.com/gaarbelaez"  
 
 
+Brunelle Marche:
+  name: Brunelle Marche
+  email: 'brunelle.marche@univ-lorraine.fr'
+  bio: " "
+  avatar: "/assets/images/people/Woman.jpg"
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "" 
+
 
 
 
