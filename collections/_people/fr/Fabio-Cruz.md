@@ -7,11 +7,6 @@ author: Fabio Cruz
 header:
   teaser: /assets/images/people/Fabio.jpg
 
-tags:
-  - 3D Printing
-  - Recycling
-  - Green FabLab
-
 orden: P
 role: IG
 

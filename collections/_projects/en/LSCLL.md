@@ -9,10 +9,6 @@ header:
   teaser: /assets/images/projects/LSCLL/teaser.jpg
   header: /assets/images/projects/LSCLL/teaser.jpg
 
-tags:
-- living lab
-categories: []
-
 ---
 
 ## The Lorraine Smart Cities Living Lab (LSCLL) of the University of Lorraine at the service of citizens and territories

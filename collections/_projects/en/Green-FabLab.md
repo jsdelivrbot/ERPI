@@ -10,11 +10,6 @@ header:
   overlay_image: /assets/images/projects/green-fablab/teaser.jpg
   overlay_filter: 0.5
 
-tags:
-- recycling
-- 3D Printing
-categories: []
-
 ---
 
 ## The creation of a local plastic recycling network for 3D printing will open up new opportunities for the circular economy.

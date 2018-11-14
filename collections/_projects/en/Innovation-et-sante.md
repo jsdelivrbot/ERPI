@@ -8,11 +8,6 @@ excerpt: "Innovation on the health field"
 header:
   teaser: /assets/images/projects/inno-health/teaser.jpg
 
-
-tags:
-- engineering
-- 3D Printing
-categories: []
 ---
 
 ## Innovation for Health and Wellness!

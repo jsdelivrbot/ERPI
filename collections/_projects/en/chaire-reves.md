@@ -8,8 +8,7 @@ excerpt: "Chaire partenarial autour de la transformation urbaine"
 header:
   teaser: /assets/images/projects/chaire-reves/teaser.jpg
 
-tags:
-- living lab
+
 
 ---
 

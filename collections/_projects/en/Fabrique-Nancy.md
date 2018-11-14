@@ -9,9 +9,6 @@ header:
   teaser: /assets/images/projects/fabrique-nancy/teaser.png
 
 
-tags:
-- research
-
 ---
 
 ## Presentation

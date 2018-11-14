@@ -268,9 +268,11 @@ includes_dir: _jekyll/_includes
 
 # Collections
 collections:  
+
   posts:
     output: true
-    permalink: /:path
+    permalink: /:collection/:year/:title/
+
   publications:
     output: true
     permalink: /:path    
@@ -301,10 +303,11 @@ defaults:
       sidebar:
         nav: ""
   
-  # _posts folder
+  # _POST Folder
   - scope:
       type: posts
     values:
+      layout: single
       is_post: true
       share: true
       read_time: true
@@ -316,11 +319,13 @@ defaults:
       path: "_posts/en"
     values:
       lang: en
-    # de
+
+    # fr
   - scope:
       path: "_posts/fr"
     values:
-      lang: fr
+      lang: fr           
+      permalink: /fr/:collection/:year/:title/
 
   # _pages Main Pages of the site
   - scope:

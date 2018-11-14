@@ -52,14 +52,64 @@ The scientific project of the ERPI deals with the Fuzzy Front End off innovation
 {% include gallery %}
 
 
-
-<!-- ## News
+## Latest News
 
 {% assign posts = site.posts | where: "lang", "en"  %}
-{% for post in posts offset: 0 limit: 5 %}
-* {{ post.date  | date: "%B %-d, %Y" }}: [{{post.title}}]({{post.url}})
+{% for post in posts offset: 0 limit: 3 %}
+
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | relative_url }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2>
+
+    {% if post.read_time %}
+    <p class="page__meta">{{ post.date  | date: "%B %-d, %Y" }} &emsp;| &emsp; <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 400 }}</p>
+    {% endif %}
+
+    <p><a href="{{ post.url | relative_url }}" class="align-right btn btn--primary">{{ site.data.ui-text[page.lang].more_label | default: "Read more" }}</a></p> 
+
+  </article>
+</div>
 {% endfor %}
 
-<p><a href="{{ site.url }}/news/" class="btn btn--primary">{{ site.data.ui-text[page.lang].more_label | default: "Read more" }}</a></p> -->
+--- 
+
+<a href="{{ site.url }}/news/" class="btn btn--primary">Lire tous les actualités</a>{: .notice--info}
+
+
+
+<p><a href="{{ site.url }}/news/" class="btn btn--primary">{{ site.data.ui-text[page.lang].more_label | default: "Read more" }}</a></p> 
 
 
