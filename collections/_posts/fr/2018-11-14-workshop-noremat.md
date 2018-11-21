@@ -7,7 +7,7 @@ excerpt: "L’évaluation de l’impact de la gestion des dépendances routière
 
 
 L’évaluation de l’impact de la gestion des dépendances routières sur le territoire a été le sujet central du Workshop qui a eu lieu le 31 octobre dernier dans les locaux de la plateforme [Lorraine Fab Living Lab® (LF2L)](http://lf2l.fr/). 
-Les chercheurs du laboratoire ERPI de l‘Université de Lorraine et l’entreprise NOREMAT ont accueilli des représentants de diverses institutions et organisations telles que la Métropole du Grand–Nancy, la DIR-Est, le Cerema, Scalen, Eurovia, Agroparistech ainsi que plusieurs entrepreneurs du secteur. 
+Les chercheurs du laboratoire ERPI de l‘Université de Lorraine et l’entreprise [NOREMAT](http://www.noremat.com/) ont accueilli des représentants de diverses institutions et organisations telles que la Métropole du Grand–Nancy, la DIR-Est, le Cerema, Scalen, Eurovia, Agroparistech ainsi que plusieurs entrepreneurs du secteur. 
 
 ![Noremat - ERPI]({{ site.baseurl }}/assets/images/projects/noremat/workshop/fig-2.jpg)
 

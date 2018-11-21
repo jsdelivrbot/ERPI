@@ -36,6 +36,18 @@ publications:
 projects:
   - title: "ERPI Projects"
     children:      
+      - title: "Lorraine Smart City Living Lab"
+        url: /projects/lorraine-smart-city-living-lab/
+
+      - title: "Innovation on Health"
+        url: /projects/innovation-on-health/
+
+      - title: "3D Soil Test"
+        url: /projects/3D-soil-test/
+
+      - title: "Green FabLab"
+        url: /projects/green-fablab/
+
       - title: "Chaire PRINCIP"
         url: /projects/princip/
 
@@ -44,13 +56,3 @@ projects:
 
       - title: "La Fabrique"
         url: /projects/fabrique-nancy/ 
-
-      - title: "Lorraine Smart City Living Lab"
-        url: /projects/lorraine-smart-city-living-lab/
-
-      - title: "Innovation on Health"
-        url: /projects/innovation-on-health/
-
-      - title: "Green FabLab"
-        url: /projects/green-fablab/
-

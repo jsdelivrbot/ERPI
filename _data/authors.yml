@@ -74,9 +74,10 @@ Alaa Hassan:
   avatar: "/assets/images/people/Alaa-Hasan.jpg"
   email: " "
   links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.fr/citations?hl=en&user=sD64smEAAAAJ"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.fr/citations?hl=en&user=sD64smEAAAAJ"
+
 
 Raphael Bary:
   name: Raphael Bary
@@ -125,18 +126,18 @@ Laurent Dupont:
   avatar: "/assets/images/people/LD.jpg"
   email: l.dupont@univ-lorraine.fr
   links:
-      - label: "Google Scholar"
-        icon: "ai ai-google-scholar-square"
-        url: "https://scholar.google.fr/citations?user=05uOEFcAAAAJ&hl=fr"
-      - label: "Researchgate"
-        icon: "ai ai-researchgate"
-        url: "https://www.researchgate.net/profile/Laurent_Dupont7"
-      - label: "Mendeley"
-        icon: "ai ai-mendeley"
-        url: "https://www.mendeley.com/profiles/laurent-dupont2/"
-      - label: "LinkedIn"
-        icon: "fab fa-linkedin"
-        url: "http://www.linkedin.com/in/dupontl"      
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.fr/citations?user=05uOEFcAAAAJ&hl=fr"
+    - label: "Researchgate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Laurent_Dupont7"
+    - label: "Mendeley"
+      icon: "ai ai-mendeley"
+      url: "https://www.mendeley.com/profiles/laurent-dupont2/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "http://www.linkedin.com/in/dupontl"      
 
 
 Manon Enjolras:
@@ -148,6 +149,16 @@ Manon Enjolras:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.fr/citations?user=yU9Xjt4AAAAJ&hl=fr&oi=ao"  
+    - label: "Researchgate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Manon_Enjolras"
+    - label: "Twitter"
+      icon: "fab fa-twitter-square"
+      url: "https://twitter.com/ManonEnjolras?lang=fr"  
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/manon-enjolras-86067849/"      
+
 
 
 Sandra Bautista:
